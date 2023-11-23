@@ -3,7 +3,7 @@ public class AsciiValue {
 
         int ch = 'A';
 
-        System.out.println("The ASCII value of " + ch + " is: " + ch);
+        System.out.println("The ASCII value will be : " + ch);
     }
 
 }
