@@ -10,7 +10,7 @@ public class Main {
     int c = (int)a;
     int d = (int)b;
 
-    System.out.println(c);    // 23
-    System.out.println(d);    // 52
+    System.out.println(c);     // 23
+    System.out.println(d);     // 52
   }
 }
