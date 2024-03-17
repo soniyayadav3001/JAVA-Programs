@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Perimeter {
     public static void main(String[] args) {
         //Perimeter of rectangle.
