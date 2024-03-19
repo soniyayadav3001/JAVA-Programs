@@ -2,7 +2,7 @@ import java.lang.Math;
 public class Main 
 {   
 public static void main(String args[])   
-{   
+{  
 // Generating random numbers  
 System.out.println("1st Random Number: " + Math.random());   
 System.out.println("2nd Random Number: " + Math.random());  
