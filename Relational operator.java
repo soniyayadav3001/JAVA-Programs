@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pattern {
+public class Operator{
     public static void main(String[] args) {
         System.out.println("Enter the value of a here : ");
         Scanner sc = new Scanner(System.in);
