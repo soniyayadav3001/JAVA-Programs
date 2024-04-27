@@ -1,6 +1,5 @@
 import java.util.*;
 public class Factorial {
-    
     public static void main(String[] args) {
         System.out.println("Enter the number here : ");
         Scanner sc = new Scanner(System.in);
