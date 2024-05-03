@@ -1,4 +1,4 @@
-public class Main {
+public class Main { 
   public static void main(String[] args) {
     // find GCD between n1 and n2
     int n1 = 81, n2 = 153;
