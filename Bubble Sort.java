@@ -4,6 +4,7 @@ public class Main {
             System.out.println(arr[i]+" ");
         }
     }   
+    
     public static void main(String[] args) {
         //Bubble Sort
         int arr[] = { 7, 8, 3, 1, 2 };
