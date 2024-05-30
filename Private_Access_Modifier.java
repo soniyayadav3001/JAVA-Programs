@@ -7,4 +7,4 @@ public class Main {
         Main obj = new Main();
             System.out.println(obj.getdata());;
     }
-}
+} 
