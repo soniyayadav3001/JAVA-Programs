@@ -10,7 +10,7 @@ public static void main(String[]args){
         remainder = num % 10;
         reverse_num = reverse_num * 10 + remainder;
         num = num / 10;
-    }
+    } 
     if (original_num == reverse_num) {
         System.out.println("Number is Palindrome");
     }
