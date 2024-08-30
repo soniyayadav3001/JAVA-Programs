@@ -8,4 +8,4 @@ public class Perimeter {
         float b = sc.nextFloat();
         System.out.println("The perimeter of rectangle is : "+2*(l+b));
     }
-}
+} 
