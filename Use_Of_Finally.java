@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Case2");
         System.out.println("Case3");
         try{
-        int a =50/0;}
+        int a =50/0;} 
         catch (Exception e){
             System.out.println("Exception Handled");
         }
