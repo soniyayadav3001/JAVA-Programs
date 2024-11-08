@@ -10,7 +10,5 @@ public class Pattern {
         }
         System.out.println("The sum will be : ");
         System.out.println(sum);
-
     }
-
 }
