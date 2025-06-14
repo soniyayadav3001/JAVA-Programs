@@ -8,7 +8,5 @@ public class hello {
         for (i = 1; i <= 10;i++) {
             System.out.println(n*i);
         }
-       
     }
-
 }
